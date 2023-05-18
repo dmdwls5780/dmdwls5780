@@ -1,8 +1,12 @@
+# LEE EUNG JIN
+
 ### HI, Everyone 👋
 
-front-end developer:
-back-end developer:
-Database:
+**front-end developer:** 
+
+**back-end developer:**
+
+**Database:**
 
 <!--
 **dmdwls5780/dmdwls5780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
