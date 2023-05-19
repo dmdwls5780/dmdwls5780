@@ -34,7 +34,7 @@
 
 **💬About**
 
-자기소개: https://portfolio-dmdwls5780.vercel.app/
+자기소개: <a href="https://portfolio-dmdwls5780.vercel.app/" target="_blank" >https://portfolio-dmdwls5780.vercel.app/</a>
 
 블로그: https://dmdwls5780.github.io/
 
