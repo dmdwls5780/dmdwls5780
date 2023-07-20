@@ -51,10 +51,6 @@
 
 **💬About**
 
-자기소개: https://portfolio-dmdwls5780.vercel.app/
-
-블로그: https://dmdwls5780.github.io/
-
 메일: dmdmdwls5780@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdwls5780&layout=compact">
